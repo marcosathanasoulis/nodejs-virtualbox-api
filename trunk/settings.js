@@ -8,7 +8,7 @@ var vboxmanagepath = "";
 
 //change vboxmanageexe to the name of your virtualboxmanage executable
 //Linux: vboxmanage (I think)
-var vboxmanageexe = "VBoxManage.exe";
+var vboxmanageexe = "VBoxManage";
 
 //change port if you would like to run the RPC server on a different
 //port.  fairly self-explanatory
