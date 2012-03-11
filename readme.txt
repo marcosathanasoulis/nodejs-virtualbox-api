@@ -5,3 +5,6 @@ nodejs-virtualbox-api provides a web services API for VirtualBox.  It does so by
 
 
 Recommended: cache VBoxManage in memory with all other relevant VirtualBox files to avoid disk-trashing.
+
+Usage: http://localhost:8910/list/--long/vms
+Result: output of: vboxmanage list --long vms
